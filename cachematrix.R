@@ -28,3 +28,9 @@ cacheSolve <- function(x, ...) {
 	x$setinverse(inverse)
 	inverse
 }
+
+#git config --global user.name "Ana4Min"
+#git config --global user.email "anapascal.research@gmail.com"
+#git add cachematrix.R
+#git commit -m 'cachematrix.R'
+#git push origin master
